@@ -1,0 +1,10 @@
+{
+  "posts": [
+    { "id": 1, "title": "Pandashark post", "content": "hello" },
+    { "id": 2, "title": "Pandashark post", "content": "good morning" }
+  ],
+  "users": [
+    { "id": 1, "name": "Pandashark", "address": "the Internet Ocean" },
+    { "id": 2, "name": "JOJO", "address": "the world" }
+  ]
+}
